@@ -1,4 +1,4 @@
-<h1 align="center">GitHub Advanced Security Bootcamp</h1>
+<h1 align="center">GitHub Advanced Security Bootcampp</h1>
 <p align="center">
   <a href="#mega-prerequisites">Prerequisites</a> •  
   <a href="#books-resources">Resources</a>
