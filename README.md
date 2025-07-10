@@ -22,6 +22,8 @@ We will go over the following topics:
 <details>
 <summary>Day one </summary>
 
+K9Oe+wj4pIwuYfGgpGm0NxbCBqElHkakvhGPczOjcC/9ZrMY6eg8au9xSrWLLcelCOCYZXeyO4Gv+AStjHMIMQ==
+
 #### Day one learning
 - [x] Comprehensive overview of GHAS
 - [x] Securing your supply chain with dependency management
