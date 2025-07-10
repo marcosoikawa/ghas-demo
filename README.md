@@ -69,8 +69,7 @@ We will go over the following topics:
 - [x] CodeQL demo
 
 </details>
-secret:
-K9Oe+wj4pIwuYfGgpGm0NxbCBqElHkakvhGPczOjcC/9ZrMY6eg8au9xSrWLLcelCOCYZXeyO4Gv+AStjHMIMQ==
+
 
 
 ## :books: Resources
