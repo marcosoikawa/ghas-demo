@@ -69,6 +69,9 @@ We will go over the following topics:
 - [x] CodeQL demo
 
 </details>
+secret:
+K9Oe+wj4pIwuYfGgpGm0NxbCBqElHkakvhGPczOjcC/9ZrMY6eg8au9xSrWLLcelCOCYZXeyO4Gv+AStjHMIMQ==
+
 
 ## :books: Resources
 - [About code scanning](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning)
